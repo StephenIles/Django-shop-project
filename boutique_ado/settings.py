@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'allauth.account', # allauth package
     'allauth.socialaccount', # allauth package
     'home',
-    'products'
+    'products',
+    'bag',
 ]
 
 MIDDLEWARE = [
